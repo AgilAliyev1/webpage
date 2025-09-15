@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "title": "Global Volunteer – Education Support (Baku)",
+    "organization": "AIESEC in Azerbaijan",
+    "location": "Baku, Azerbaijan",
+    "type": "volunteer",
+    "description": "Support English and soft-skills workshops for youth in Baku schools and community centers.",
+    "tags": "education,youth,english",
+    "url": "https://aiesec.org"
+  },
+  {
+    "id": 2,
+    "title": "ASAN Volunteers – Public Service Assistant",
+    "organization": "ASAN Service",
+    "location": "Multiple cities, Azerbaijan",
+    "type": "volunteer",
+    "description": "Assist citizens at ASAN centers, guide queues, and support service desks.",
+    "tags": "public service,community,assistant",
+    "url": "https://volunteers.asan.gov.az"
+  },
+  {
+    "id": 3,
+    "title": "Disaster Preparedness Volunteer",
+    "organization": "Azerbaijan Red Crescent Society",
+    "location": "Baku, Azerbaijan",
+    "type": "volunteer",
+    "description": "Join preparedness trainings and community awareness campaigns.",
+    "tags": "health,disaster,community",
+    "url": "https://redcrescent.az"
+  },
+  {
+    "id": 4,
+    "title": "Environmental Cleanup & Tree Planting",
+    "organization": "IDEA Public Union",
+    "location": "Baku & regions, Azerbaijan",
+    "type": "volunteer",
+    "description": "Participate in cleanups and awareness events focused on urban green spaces.",
+    "tags": "environment,cleanup,trees",
+    "url": "https://ideacampaign.org"
+  },
+  {
+    "id": 5,
+    "title": "Mentorship – Education HUB",
+    "organization": "Education HUB Azerbaijan",
+    "location": "Baku, Azerbaijan",
+    "type": "volunteer",
+    "description": "Mentor students on projects, career pathways, and digital skills.",
+    "tags": "mentorship,education,students",
+    "url": "https://eduhub.az"
+  },
+  {
+    "id": 6,
+    "title": "Animal Shelter Support",
+    "organization": "Animal Rescue Baku",
+    "location": "Baku, Azerbaijan",
+    "type": "volunteer",
+    "description": "Help with daily care, cleaning, and adoption events at a local shelter.",
+    "tags": "animals,shelter,care",
+    "url": "https://example.com/animal-rescue-baku"
+  },
+  {
+    "id": 7,
+    "title": "Public Service Internship (ASAN)",
+    "organization": "ASAN Service",
+    "location": "Baku, Azerbaijan",
+    "type": "internship",
+    "description": "Support service improvement projects and citizen experience research.",
+    "tags": "internship,public service,research",
+    "url": "https://asan.gov.az/en"
+  },
+  {
+    "id": 8,
+    "title": "Marketing Intern – Startup Azerbaijan",
+    "organization": "Startup Azerbaijan",
+    "location": "Baku, Azerbaijan",
+    "type": "internship",
+    "description": "Assist with social campaigns, events, and community partnerships.",
+    "tags": "internship,marketing,startups",
+    "url": "https://startupazerbaijan.az"
+  }
+]
+
+
+
