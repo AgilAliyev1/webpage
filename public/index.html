@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Azerbaijan Opportunities</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="container site-header">
+      <h1><span class="brand">AZ Opportunities</span></h1>
+      <nav class="actions">
+        <a href="/login.html" id="loginLink">Login</a>
+        <a href="/register.html" id="registerLink">Register</a>
+        <button id="logoutBtn" style="display:none">Logout</button>
+      </nav>
+    </header>
+
+    <main class="container">
+      <section class="hero">
+        <h2>Find volunteering and internship roles in Azerbaijan</h2>
+        <p class="subhead">Discover meaningful experiences across organizations, cities and causes.</p>
+      </section>
+
+      <section class="search card-surface">
+        <input id="q" placeholder="Search by title, org, description" />
+        <select id="type">
+          <option value="">Any type</option>
+          <option value="volunteer">Volunteer</option>
+          <option value="internship">Internship</option>
+        </select>
+        <input id="location" placeholder="Location" />
+        <input id="tags" placeholder="Tags (comma-separated)" />
+        <button id="searchBtn" class="btn-primary">Search</button>
+      </section>
+
+      <section id="results" class="results"></section>
+
+      <section id="createSection" class="create card-surface" style="display:none">
+        <h2>Post an opportunity</h2>
+        <input id="c_title" placeholder="Title" />
+        <input id="c_org" placeholder="Organization" />
+        <input id="c_location" placeholder="Location" />
+        <select id="c_type">
+          <option value="volunteer">Volunteer</option>
+          <option value="internship">Internship</option>
+        </select>
+        <textarea id="c_desc" placeholder="Description"></textarea>
+        <input id="c_tags" placeholder="Tags (comma-separated)" />
+        <button id="createBtn" class="btn-primary">Create</button>
+      </section>
+    </main>
+
+    <footer class="container site-footer">
+      <p>Made with care for volunteers and students in Azerbaijan.</p>
+    </footer>
+
+    <script src="/app.js"></script>
+  </body>
+  </html>
+
+
